@@ -1,4 +1,4 @@
-# Selenium_Junit_Java_https://project1052.seemyworks.com/login.php
+# Selenium_Junit_Java_seemyworks.com
 Web-automation test project. In this project work with Selenium Web-Driver, Juint test runner on java language.
 
 the website link is 
