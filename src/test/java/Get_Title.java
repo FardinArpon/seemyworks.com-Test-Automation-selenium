@@ -15,7 +15,7 @@ public class Get_Title extends SetUp{
 
     @Test
     public void getTitle() {
-        driver.get("https://project1052.seemyworks.com/login.php");
+        driver.get("http://13.228.37.255:4040/");
         String title = driver.getTitle();
         System.out.println(title);
         Assert.assertTrue(title.contains("login"));
